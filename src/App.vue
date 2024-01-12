@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld/>
+      <HelloWorld />
     </v-main>
   </v-app>
 </template>
@@ -21,3 +21,4 @@ export default {
   }),
 }
 </script>
+<style lang="scss"></style>
